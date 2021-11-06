@@ -1,7 +1,7 @@
 # CryptoWalletTemplate
 A crypto currency wallet UI/UX template created using Android's jetpack compose. 
 
-## 🎥 Demo
+## 🎥 Screen recordings
 ![demo](./crypto.gif) ![demotwo](./crypto2.gif)
 
 ## Screenshots 

@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            CryptoWalletTheme {
+            CryptoWalletTheme(darkTheme = false) {
                 CryptoWalletNavGraph(navController = rememberNavController())
             }
         }

@@ -1,16 +1,16 @@
 # CryptoWalletTemplate
 A crypto currency wallet UI/UX template created using Android's jetpack compose.
 
-## 🎥 Screen recordings
+## High definition demo on youtube
+[Youtube video demo](https://youtu.be/9YgSU6bqmWw)
+
+## 🎥 Low definition screen recordings
 ![demo](./crypto.gif)       ![demotwo](./crypto2.gif)
 
 ## Screenshots 
 <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto9.png" width="216" height="468">  <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto2.png" width="216" height="468"> <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto1.png" width="216" height="468">   
 <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto3.png" width="216" height="468">   <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto5.png" width="216" height="468">
 <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto6.png" width="216" height="468">   <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto7.png" width="216" height="468">
-
-## HD demo on youtube
-[Youtube video demo](https://youtu.be/9YgSU6bqmWw)
 
 ## Apk 
 Download the app apk file [here](https://github.com/Pekwerike/CryptoWalletTemplate/raw/master/app-debug.apk)

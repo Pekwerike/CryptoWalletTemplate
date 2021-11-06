@@ -22,7 +22,7 @@ fun DeckableLayout(
 
     ConstraintLayout(modifier = modifier.fillMaxSize()) {
         val (upperBackground, columnContent) = createRefs()
-        val upperBackgroundGuideline = createGuidelineFromTop(fraction = 0.64f)
+        val upperBackgroundGuideline = createGuidelineFromTop(fraction = 0.62f)
         Surface(
             modifier = Modifier
                 .fillMaxWidth()

@@ -42,12 +42,14 @@ import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableSharedFlow
 
 @Composable
-fun AddNewCardScreenTopAppBar() {
+fun AddNewCardScreenTopAppBar(
+    onArrowBackClicked : () -> Unit
+) {
     Row(
         modifier = Modifier.height(56.dp),
         verticalAlignment = Alignment.CenterVertically
     ) {
-        IconButton(onClick = {}, modifier = Modifier.weight(0.12f)) {
+        IconButton(onClick = onArrowBackClicked, modifier = Modifier.weight(0.12f)) {
             CompositionLocalProvider(LocalContentAlpha provides 0.4f) {
                 Icon(
                     imageVector = Icons.Rounded.ArrowBack,
@@ -251,7 +253,9 @@ fun CardInputCollectorPreview() {
 fun AddNewCardScreenTopAppBarPreview() {
     CryptoWalletTheme {
         Surface {
-            AddNewCardScreenTopAppBar()
+            AddNewCardScreenTopAppBar(
+                onArrowBackClicked = {}
+            )
         }
     }
 }

@@ -29,11 +29,11 @@ import kotlinx.coroutines.delay
 @Composable
 fun AddNewCardScreen(
     onAddCard: () -> Unit,
-    onCancelAddCard: () -> Unit
+    onCancelAddCard: () -> Unit,
 ) {
     Scaffold(
         topBar = {
-            AddNewCardScreenTopAppBar()
+            AddNewCardScreenTopAppBar(onArrowBackClicked = onCancelAddCard)
         }
     ) {
         val newCardInputs =

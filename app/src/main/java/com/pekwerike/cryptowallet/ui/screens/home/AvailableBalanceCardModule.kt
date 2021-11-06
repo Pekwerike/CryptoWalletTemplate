@@ -39,6 +39,7 @@ fun AvailableBalanceCardList() {
             )
         }
         AvailableBalanceText()
+        Spacer(modifier = Modifier.height(10.dp))
         Text(
             modifier = Modifier
                 .fillMaxWidth()
@@ -75,7 +76,7 @@ private fun CardList() {
         ) {
             val localConfiguration = LocalConfiguration.current
             val cardsHeight =
-                remember { (localConfiguration.screenHeightDp * 0.24f) }
+                remember { (localConfiguration.screenHeightDp * 0.25f) }
             val cardsWidth = remember { (localConfiguration.screenWidthDp * 0.80f) }
             LazyRow {
                 items(5) {

@@ -1,5 +1,7 @@
 # CryptoWalletTemplate
-A crypto currency wallet UI/UX template created using Android's jetpack compose. 
+A crypto currency wallet UI/UX template created using Android's jetpack compose.
+
+>>>Yep, there is a lot of not so "neat code" in this repository as the purpose of this project is not targeted towards clean code.
 
 ## 🎥 Screen recordings
 ![demo](./crypto.gif) ![demotwo](./crypto2.gif)
@@ -9,8 +11,11 @@ A crypto currency wallet UI/UX template created using Android's jetpack compose.
 <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto3.png" width="216" height="468">   <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto5.png" width="216" height="468">
 <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto6.png" width="216" height="468">   <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto7.png" width="216" height="468">
 
-## Apk 
+## HD demo on youtube
+[Youtube video demo](https://youtu.be/9YgSU6bqmWw)
 
+## Apk 
+Download the app apk file [here](https://github.com/Pekwerike/CryptoWalletTemplate/raw/master/app-debug.apk)
 
 ## Credits
 This project was inspired by a UI/UX video created by Nasir Uddin on [dribble](https://dribbble.com/shots/16764349-Crypto-Wallet-Add-New-Card)

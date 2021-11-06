@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CryptoWallet</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="home">Home</string>
+    <string name="wallet">Wallet</string>
+    <string name="history">History</string>
+    <string name="market">Market</string>
+    <string name="cardholder_name">CARDHOLDER NAME</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="valid_until">Valid Until</string>
+    <string name="cvv_number">CVV</string>
+    <string name="add_card">Add card</string>
+    <string name="cancel">Cancel</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="back_to_wallet">Back to wallet</string>
+</resources>

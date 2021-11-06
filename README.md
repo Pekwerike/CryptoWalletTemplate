@@ -2,7 +2,7 @@
 A crypto currency wallet UI/UX template created using Android's jetpack compose. 
 
 ## 🎥 Demo
-![demo](./crypto.gif)
+![demo](./crypto.gif) ![demotwo](./crypto2.gif)
 
 ## Screenshots 
 <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto9.png" width="216" height="468"> <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto1.png" width="216" height="468">   <img src="https://github.com/Pekwerike/CryptoWalletTemplate/blob/master/crypto2.png" width="216" height="468">
